@@ -16,6 +16,7 @@ My name is Jordan, and I'm a student at the University of CA, Berkeley, currentl
 ### Core Competencies
 
 **Languages**: Python (Pandas, Numpy, Matplotlib), R (dplyr, Ggplot2, Tidyverse), SQL
+
 **Tools**: Git, Amazon Web Services (AWS), Microsoft Office
 <!--
 **jandersen12/jandersen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
