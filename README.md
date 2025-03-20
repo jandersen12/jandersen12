@@ -2,14 +2,14 @@
 
 My name is Jordan, and I'm a student at the University of CA, Berkeley, currently pursuing my Masters in Information & Data Science.
 
-💡 I’m currently learning about machine learning, data engineering, and statistical methods for data science.
+💡 Currently learning about data engineering and statistical methods for data science.
 
-🔍 I'm excited to dive deeper into Natural Language Processing (NLP) & Deep Learning, and Experiments & Causal Inference next semester!
+🔍 Excited to dive deeper into Machine Learning and Experiments & Causal Inference next semester!
 
-🌎 I’m passionate about projects that leverage data science and machine learning for global social impact in areas such as: 
-- Education & language learning 
-- Climate change & sustainability 
-- Humanitarian aid & crisis response 
+🌎 Passionate about projects that leverage data science and machine learning for global social impact in areas such as: 
+  - Education & language learning
+  - Climate change & sustainability 
+  - Humanitarian aid & crisis response 
 
 👩🏼‍💻 Check out my portfolio repository below to see what I've been working on!
 
