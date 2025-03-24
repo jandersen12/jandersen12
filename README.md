@@ -1,10 +1,12 @@
 ## Welcome!
 
-My name is Jordan, and I'm a student at the University of CA, Berkeley, currently pursuing my Masters in Information & Data Science.
+My name is Jordan, and I'm a student at the University of CA, Berkeley, where I am pursuing my Masters of Information & Data Science.
 
-💡 Currently learning about data engineering and statistical methods for data science.
+💡 Currently learning about data engineering and statistics, including linear regression and modeling.
 
-🔍 Excited to dive deeper into Machine Learning and Experiments & Causal Inference next semester!
+💻 Excited to dive deeper into Machine Learning and Experiments & Causal Inference next semester!
+
+🔍 I’m seeking opportunities to work with large datasets, build scalable data pipelines, and contribute to cross-functional projects that uncover patterns, tell stories through data, and drive meaningful insights.
 
 🌎 Passionate about projects that leverage data science and machine learning for global social impact in areas such as: 
   - Healthcare 
