@@ -7,6 +7,7 @@ My name is Jordan, and I'm a student at the University of CA, Berkeley, currentl
 🔍 Excited to dive deeper into Machine Learning and Experiments & Causal Inference next semester!
 
 🌎 Passionate about projects that leverage data science and machine learning for global social impact in areas such as: 
+  - Healthcare 
   - Education & language learning
   - Climate change & sustainability 
   - Humanitarian aid & crisis response 
