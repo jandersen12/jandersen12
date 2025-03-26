@@ -8,12 +8,6 @@ My name is Jordan, and I'm a student at the University of CA, Berkeley, where I 
 
 🔍 I’m seeking opportunities to work with large datasets, build scalable data pipelines, and contribute to cross-functional projects that uncover patterns, tell stories through data, and drive meaningful insights.
 
-🌎 Passionate about projects that leverage data science and machine learning for global social impact in areas such as: 
-  - Healthcare 
-  - Education & language learning
-  - Climate change & sustainability 
-  - Humanitarian aid & crisis response 
-
 👩🏼‍💻 Check out my portfolio repository below to see what I've been working on!
 
 ### Core Competencies
