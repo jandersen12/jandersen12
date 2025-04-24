@@ -22,7 +22,7 @@ This project seeks to describe the relationship between sleep, health and age by
 ## [Strategic Ad Auction Bidding Model](https://github.com/jandersen12/Strategic-Ad-Auction-Bidding)
 
 <a href="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding">
-  <img src="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding/blob/main/images/auction-cover-photo.jpg" width="180" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding/blob/main/images/auction-cover-photo.jpg" width="150" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 Designed using object-oriented programming techniques in Python, this model optimizes second-price ad auction bidding strategies based on estimating user click probabilities. It implements three modular classes. In the user class, users are randomly assigned a click probability and determined ad engagement. The bidder class is where bids are adjusted based on expected utility, tracked balances, and by learning from previous outcomes. The auction class executeds the auction rounds and determines the winning bids.
