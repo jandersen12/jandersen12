@@ -1,5 +1,12 @@
 # Hello!
 
+👋🏻 My name is Jordan
+
+📝 Current Master of Information and Data Science student at UC Berkeley
+
+🌏 3+ years of experience in international development with a passion for utilizing machine learning and data analytics to make meaningful change
+
+💡 Experienced communicator and story-teller, bringing data to life with clarity, empathy and purpose
 
 
 # Data Science Projects
