@@ -1,4 +1,4 @@
-# Hello!
+## Hello!
 
 👋🏻 My name is Jordan
 
@@ -9,7 +9,7 @@
 💡 Experienced communicator and story-teller, bringing data to life with clarity, empathy and purpose
 
 
-# Data Science Projects
+## Data Science Projects
 
 ## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration](https://github.com/jandersen12/Health-Sleep-Regression)
 
