@@ -29,6 +29,7 @@ This project seeks to describe the relationship between sleep, health and age by
 Designed using object-oriented programming techniques in Python, this model optimizes second-price ad auction bidding strategies based on estimating user click probabilities. It implements three modular classes. In the user class, users are randomly assigned a click probability and determined ad engagement. The bidder class is where bids are adjusted based on expected utility, tracked balances, and by learning from previous outcomes. The auction class executeds the auction rounds and determines the winning bids.
 
 
+
 ## [A Global Analysis on Gender, Employment, and School Enrollment](https://github.com/jandersen12/World-Bank-Indicators-Analysis)
 
 <a href="https://github.com/jandersen12/World-Bank-Indicators-Analysis">
