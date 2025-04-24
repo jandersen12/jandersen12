@@ -19,6 +19,7 @@
 
 This project seeks to describe the relationship between sleep, health and age by applying OLS Regression models to data from the Center for Disease Control's Behavioral Risk Factor Survey from 2022. In order to operationalize the data's interpretability and functionality, we categorized variables related to general health, physical health, mental health, age, and sleep duration. In addition to building and interpreting the regression models to quantify associations, we tested model assumptions such as multicollinearity, homoscedasticity, identical distribution and independence. While there was statistical significance in the relationships, the explanatory power of the model remained a low 3.7%, highlighting the complex nature of external influences on sleep duration. 
 
+<br clear="all"/>
 
 ## [Strategic Ad Auction Bidding Model](https://github.com/jandersen12/Strategic-Ad-Auction-Bidding)
 
@@ -28,7 +29,7 @@ This project seeks to describe the relationship between sleep, health and age by
 
 Designed using object-oriented programming techniques in Python, this model optimizes second-price ad auction bidding strategies based on estimating user click probabilities. It implements three modular classes. In the user class, users are randomly assigned a click probability and determined ad engagement. The bidder class is where bids are adjusted based on expected utility, tracked balances, and by learning from previous outcomes. The auction class executeds the auction rounds and determines the winning bids.
 
-
+<br clear="all"/>
 
 ## [A Global Analysis on Gender, Employment, and School Enrollment](https://github.com/jandersen12/World-Bank-Indicators-Analysis)
 
