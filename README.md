@@ -1,22 +1,14 @@
-## Welcome!
+## Hi! I'm Jordan
 
-My name is Jordan, and I'm a student at the University of CA, Berkeley, where I am pursuing my Masters of Information & Data Science.
 
-💡 Currently learning about data engineering and statistics, including linear regression and modeling.
 
-💻 Excited to dive deeper into Machine Learning and Experiments & Causal Inference next semester!
+### Data Science Projects
 
-🔍 I’m seeking opportunities to work with large datasets, build scalable data pipelines, and contribute to cross-functional projects that uncover patterns, tell stories through data, and drive meaningful insights.
+## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration]([link-to-project-or-repo](https://github.com/jandersen12/Health-Sleep-Regression))
+![sleep image]([link-to-image](https://github.com/jandersen12/Health-Sleep-Regression/blob/main/images/sleep-cover-image.jpg))
+This project seeks to describe the relationship between sleep, health and age by applying OLS Regression models to data from the Center for Disease Control's Behavioral Risk Factor Survey from 2022. In order to operationalize the data's interpretability and functionality, we categorized variables related to general health, physical health, mental health, age, and sleep duration. In addition to building and interpreting the regression models to quantify associations, we tested model assumptions such as multicollinearity, homoscedasticity, identical distribution and independence. While there was statistical significance in the relationships, the explanatory power of the model remained a low 3.7%, highlighting the complex nature of external influences on sleep duration. 
 
-👩🏼‍💻 Check out my portfolio repository below to see what I've been working on!
 
-### Core Competencies
-
-**Languages**: Python (Pandas, Numpy, Matplotlib), R (dplyr, Ggplot2, Tidyverse), SQL
-
-**Tools**: Git, Amazon Web Services (AWS), Microsoft Office
-
-**Database management**: Neo4j, PostgreSQL
 <!--
 **jandersen12/jandersen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
