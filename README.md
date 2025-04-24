@@ -1,11 +1,11 @@
-## Hi! I'm Jordan
+# Hello!
 
 
 
-### Data Science Projects
+# Data Science Projects
 
 ## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration]([link-to-project-or-repo](https://github.com/jandersen12/Health-Sleep-Regression))
-![sleep image]([link-to-image](https://github.com/jandersen12/Health-Sleep-Regression/blob/main/images/sleep-cover-image.jpg))
+![sleep image](https://github.com/jandersen12/Health-Sleep-Regression/blob/main/images/sleep-cover-image.jpg)
 This project seeks to describe the relationship between sleep, health and age by applying OLS Regression models to data from the Center for Disease Control's Behavioral Risk Factor Survey from 2022. In order to operationalize the data's interpretability and functionality, we categorized variables related to general health, physical health, mental health, age, and sleep duration. In addition to building and interpreting the regression models to quantify associations, we tested model assumptions such as multicollinearity, homoscedasticity, identical distribution and independence. While there was statistical significance in the relationships, the explanatory power of the model remained a low 3.7%, highlighting the complex nature of external influences on sleep duration. 
 
 
