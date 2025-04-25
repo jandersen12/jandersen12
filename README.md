@@ -21,6 +21,16 @@ This project seeks to describe the relationship between sleep, health and age by
 
 <br clear="all"/>
 
+## [Met Connect: A Graph Database Approach to Model the New York Met's Collection](https://github.com/jandersen12/Met-Objects-Graph-Model)
+
+<a href="https://github.com/jandersen12/Met-Objects-Graph-Model">
+  <img src="https://github.com/jandersen12/Met-Objects-Graph-Model/blob/main/images/museum-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Utilizing open source data from the New York Metropolitan Museum of Art, our team converted the museum's object collection data into a graph database structure and used graph algorithms to uncover key insights that inform exhibition ideas, object curation, and user experience enhancements. We modeled the data in Neo4j and used Pagerank, Louvain Modularity, and Closeness Centrality algorithms. Finally, we developed exploratory plots and recommendations based on centrality scores and community detection.
+
+<br clear="all"/>
+
 ## [Strategic Ad Auction Bidding Model](https://github.com/jandersen12/Strategic-Ad-Auction-Bidding)
 
 <a href="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding">
