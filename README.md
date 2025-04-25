@@ -38,6 +38,17 @@ Designed using object-oriented programming techniques in Python, this model opti
 </a>
 
 An exploratory data analysis project that uncovers relationships between gender, employment, and primary school enrollment at a global scale. By using Development Indicators and economic categorizations from the World Bank, my team discovered correlations between a country's female primary school enrollment rates and employment rates. By filtering and reshaping the data using melting in Python, we were able to analyze indicators for our chosen variables accross the years from 2017-2023, handling missing data with consistency and producing high-quality visualizations. 
+
+<br clear="all"/>
+
+## [Partisan Perspectives: Testing Differences in Political Attitudes with R](https://github.com/jandersen12/Political-Party-Attitudes-Education)
+
+<a href="https://github.com/jandersen12/Political-Party-Attitudes-Education">
+  <img src="https://github.com/jandersen12/Political-Party-Attitudes-Education/blob/main/images/political-parties-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+This project aims to evaluate partisan differences in attitudes toward college professors and the importance of what is taught in public schools. It combines statistical testing with effect size estimation to ensure both scientific rigor and real-world interpretability. After cleaning and selecting relevant variables from the American National Election Survey (ANES) and ensuring test assumptions were met, we conducted Welch's t-test to evaluate feelings of warmth towards college professors, and a Wilcoxon rank-sum test to evaluate ratings of the importance of what is being taught in school. We implemented Cohen's D and Cliff's delta, respectively, to analyze the effect sizes of each hypothesis test to build our final analysis and discussion. 
+
 <!--
 **jandersen12/jandersen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
