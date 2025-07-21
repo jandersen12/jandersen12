@@ -11,6 +11,14 @@
 
 ## Data Science Projects
 
+## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
+
+<a href="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy">
+  <img src="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy/blob/main/images/retinopathy-image.jpeg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+This project aims to develop a convolutional neural network (CNN) for detecting diabetic retinopathy (DR) from retina images captured through fundus photography under diverse imaging conditions. To enhance the model's generalization and minimize overfitting, the approach incorporates image transformation and data augmentation techniques, enabling the system to perform robustly across a wide range of visual inputs.
+
 ## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration](https://github.com/jandersen12/Health-Sleep-Regression)
 
 <a href="https://github.com/jandersen12/Health-Sleep-Regression">
