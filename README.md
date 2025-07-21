@@ -51,6 +51,7 @@ An exploratory data analysis project that uncovers relationships between gender,
 
 <br clear="all"/>
 
+<!-- Archive of Projects
 ## [Partisan Perspectives: Testing Differences in Political Attitudes with R](https://github.com/jandersen12/Political-Party-Attitudes-Education)
 
 <a href="https://github.com/jandersen12/Political-Party-Attitudes-Education">
