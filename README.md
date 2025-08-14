@@ -21,7 +21,7 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blo
 
 <br clear="all"/>
 
-## [Machine Learning to Predict Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
+## [Machine Learning Methods for Predicting Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
 <a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
   <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech_bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
