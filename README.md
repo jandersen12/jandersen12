@@ -24,7 +24,7 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blo
 ## [Machine Learning Methods for Predicting Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
 <a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
-  <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech_bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech-bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 Language endangerment threatens cultural diversity, with over 40% of the world’s 7,000 languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody, often from marginalized groups. This project aims to predict a language’s endangerment level, from extinct to not endangered, using features such as speaker counts, political status, and urbanization and internet usage rates in the countries where it is spoken. By applying multiple predictive models, we seek to identify the key factors driving language decline and enable earlier, targeted preservation efforts.
