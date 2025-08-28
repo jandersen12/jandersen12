@@ -34,7 +34,7 @@ Language endangerment threatens cultural diversity, with over 40% of the worldâ€
 ## [A Causal Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
 <a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
-  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 In digital commerce, personalization and product bundling are widely used strategies aimed at increasing consumer engagement and spending. This study investigates whether identity-based personalization enhances the effectiveness of product bundling in driving purchase behavior. By using a 3x2 factorial design, users are assigned to one of six simulated purchase environments. By offering a maximum $300 prize, we attempt to motivate participants to treat the simulation as close to reality as possible. Our hypothesis states that bundling and personalization will individually increase intent to purchase amounts, while the combination of both will also result in higher purchase amounts. 
