@@ -31,6 +31,16 @@ Language endangerment threatens cultural diversity, with over 40% of the worldâ€
 
 <br clear="all"/>
 
+## [A Causal Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
+
+<a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
+  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+In digital commerce, personalization and product bundling are widely used strategies aimed at increasing consumer engagement and spending. This study investigates whether identity-based personalization enhances the effectiveness of product bundling in driving purchase behavior. By using a 3x2 factorial design, users are assigned to one of six simulated purchase environments. By offering a maximum $300 prize, we attempt to motivate participants to treat the simulation as close to reality as possible. Our hypothesis states that bundling and personalization will individually increase intent to purchase amounts, while the combination of both will also result in higher purchase amounts. 
+
+<br clear="all"/>
+
 ## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration](https://github.com/jandersen12/Health-Sleep-Regression)
 
 <a href="https://github.com/jandersen12/Health-Sleep-Regression">
@@ -48,16 +58,6 @@ This project seeks to describe the relationship between sleep, health and age by
 </a>
 
 Utilizing open source data from the New York Metropolitan Museum of Art, our team converted the museum's object collection data into a graph database structure and used graph algorithms to uncover key insights that inform exhibition ideas, object curation, and user experience enhancements. We modeled the data in Neo4j and used Pagerank, Louvain Modularity, and Closeness Centrality algorithms. Finally, we developed exploratory plots and recommendations based on centrality scores and community detection.
-
-<br clear="all"/>
-
-## [Strategic Ad Auction Bidding Model](https://github.com/jandersen12/Strategic-Ad-Auction-Bidding)
-
-<a href="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding">
-  <img src="https://github.com/jandersen12/Strategic-Ad-Auction-Bidding/blob/main/images/auction-cover-photo.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-Designed using object-oriented programming techniques in Python, this model optimizes second-price ad auction bidding strategies based on estimating user click probabilities. It implements three modular classes. In the user class, users are randomly assigned a click probability and determined ad engagement. The bidder class is where bids are adjusted based on expected utility, tracked balances, and by learning from previous outcomes. The auction class executeds the auction rounds and determines the winning bids.
 
 <br clear="all"/>
 
