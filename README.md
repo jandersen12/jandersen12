@@ -5,7 +5,7 @@
 üìù Current Master of Information and Data Science student at UC Berkeley
 
 
-# Machine Learning Projects
+## Technical Projects
 
 ## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
 
@@ -27,8 +27,6 @@ Language endangerment threatens cultural diversity, with over 40% of the world‚Ä
 
 <br clear="all"/>
 
-# Statistical Analysis Projects
-
 ## [A Causal Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
 <a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
@@ -38,18 +36,6 @@ Language endangerment threatens cultural diversity, with over 40% of the world‚Ä
 In digital commerce, personalization and product bundling are widely used strategies aimed at increasing consumer engagement and spending. This study investigates whether identity-based personalization enhances the effectiveness of product bundling in driving purchase behavior. By using a 3x2 factorial design, users are assigned to one of six simulated purchase environments. By offering a maximum $300 prize, we attempt to motivate participants to treat the simulation as close to reality as possible. Our hypothesis states that bundling and personalization will individually increase intent to purchase amounts, while the combination of both will also result in higher purchase amounts. 
 
 <br clear="all"/>
-
-## [Sleepless Signals: Modeling the Impact of Health and Age on Sleep Duration](https://github.com/jandersen12/Health-Sleep-Regression)
-
-<a href="https://github.com/jandersen12/Health-Sleep-Regression">
-  <img src="https://github.com/jandersen12/Health-Sleep-Regression/blob/main/images/sleep-cover-image.jpg?raw=true" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-This project seeks to describe the relationship between sleep, health and age by applying OLS Regression models to data from the Center for Disease Control's Behavioral Risk Factor Survey from 2022. In order to operationalize the data's interpretability and functionality, we categorized variables related to general health, physical health, mental health, age, and sleep duration. In addition to building and interpreting the regression models to quantify associations, we tested model assumptions such as multicollinearity, homoscedasticity, identical distribution and independence. While there was statistical significance in the relationships, the explanatory power of the model remained a low 3.7%, highlighting the complex nature of external influences on sleep duration. 
-
-<br clear="all"/>
-
-# Data Analysis Projects
 
 ## [Met Connect: A Graph Database Approach to Model the New York Met's Collection](https://github.com/jandersen12/Met-Objects-Graph-Model)
 
