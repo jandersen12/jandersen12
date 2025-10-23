@@ -1,4 +1,4 @@
-## Hello!
+# Hello!
 
 👋🏻 My name is Jordan
 
@@ -48,6 +48,8 @@ In digital commerce, personalization and product bundling are widely used strate
 This project seeks to describe the relationship between sleep, health and age by applying OLS Regression models to data from the Center for Disease Control's Behavioral Risk Factor Survey from 2022. In order to operationalize the data's interpretability and functionality, we categorized variables related to general health, physical health, mental health, age, and sleep duration. In addition to building and interpreting the regression models to quantify associations, we tested model assumptions such as multicollinearity, homoscedasticity, identical distribution and independence. While there was statistical significance in the relationships, the explanatory power of the model remained a low 3.7%, highlighting the complex nature of external influences on sleep duration. 
 
 <br clear="all"/>
+
+# Data Analysis Projects
 
 ## [Met Connect: A Graph Database Approach to Model the New York Met's Collection](https://github.com/jandersen12/Met-Objects-Graph-Model)
 
