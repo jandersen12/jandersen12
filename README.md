@@ -4,12 +4,8 @@
 
 📝 Current Master of Information and Data Science student at UC Berkeley
 
-🌏 3+ years of experience in international development with a passion for utilizing machine learning and data analytics to make meaningful change
 
-💡 Experienced communicator and story-teller, bringing data to life with clarity, empathy and purpose
-
-
-## Data Science Projects
+# Machine Learning Projects
 
 ## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
 
@@ -30,6 +26,8 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blo
 Language endangerment threatens cultural diversity, with over 40% of the world’s 7,000 languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody, often from marginalized groups. This project aims to predict a language’s endangerment level, from extinct to not endangered, using features such as speaker counts, political status, and urbanization and internet usage rates in the countries where it is spoken. By applying multiple predictive models, we seek to identify the key factors driving language decline and enable earlier, targeted preservation efforts.
 
 <br clear="all"/>
+
+# Statistical Analysis Projects
 
 ## [A Causal Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
