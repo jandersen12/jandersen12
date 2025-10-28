@@ -2,20 +2,11 @@
 
 👋🏻 My name is Jordan
 
-📝 Current Master of Information and Data Science student at UC Berkeley
+📝 Master of Information and Data Science candidate at UC Berkeley
 
+🔭 I’m currently learning about transformer architecture for NLP, model bias, and time series analysis
 
-## Technical Projects
-
-## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
-
-<a href="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy">
-  <img src="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy/blob/main/images/retinopathy-image.jpeg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blood vessels in the retina, potentially leading to vision loss or blindness. This project aims to develop a convolutional neural network (CNN) for detecting diabetic retinopathy (DR) from retina images captured through fundus photography under diverse imaging conditions. To enhance the model's generalization and minimize overfitting, the approach incorporates image transformation and data augmentation techniques, enabling the system to perform robustly across a wide range of visual inputs.
-
-<br clear="all"/>
+## Highlighted Projects
 
 ## [Machine Learning Methods for Predicting Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
@@ -24,6 +15,16 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blo
 </a>
 
 Language endangerment threatens cultural diversity, with over 40% of the world’s 7,000 languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody, often from marginalized groups. This project aims to predict a language’s endangerment level, from extinct to not endangered, using features such as speaker counts, political status, and urbanization and internet usage rates in the countries where it is spoken. By applying multiple predictive models, we seek to identify the key factors driving language decline and enable earlier, targeted preservation efforts.
+
+<br clear="all"/>
+
+## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
+
+<a href="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy">
+  <img src="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy/blob/main/images/retinopathy-image.jpeg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blood vessels in the retina, potentially leading to vision loss or blindness. This project aims to develop a convolutional neural network (CNN) for detecting diabetic retinopathy (DR) from retina images captured through fundus photography under diverse imaging conditions. To enhance the model's generalization and minimize overfitting, the approach incorporates image transformation and data augmentation techniques, enabling the system to perform robustly across a wide range of visual inputs.
 
 <br clear="all"/>
 
