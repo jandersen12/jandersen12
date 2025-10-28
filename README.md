@@ -4,6 +4,8 @@
 
 📝 Master of Information and Data Science candidate at UC Berkeley
 
+🌏 A human-centered problem solver, approaching data science as a technical challenge with a focus on people-oriented outcomes
+
 🔭 I’m currently learning about transformer architecture for NLP, model bias, and time series analysis
 
 ## Highlighted Projects
