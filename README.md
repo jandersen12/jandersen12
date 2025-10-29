@@ -6,7 +6,7 @@
 
 🌏 A human-centered problem solver, approaching data science as a technical challenge with a focus on people-oriented outcomes
 
-🔭 I’m currently learning about transformer architecture for NLP, model bias, and time series analysis
+🔭 I’m currently learning about transformer architectures for NLP, mitigating model bias, and time series analysis
 
 ## Highlighted Projects
 
