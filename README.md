@@ -10,6 +10,14 @@
 
 ## Highlighted Projects
 
+## [Mitigating Gender Bias in Modern LLMs](https://github.com/jandersen12/mitigating-gender-bias-in-LLMs)
+
+<a href="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs.git">
+  <img src="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs/blob/main/images/cover_image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Modern large language models are trained on web-scraped data that often reflects various forms of bias. This bias can be exacerbated when models rely on these biases to make predictions or classifications, resulting in negative effects towards the group of people whom it reflects the bias against. In this project, we explored the extent of gender bias in pre-trained modern LLMs like ModernBert, and apply 3 debiasing methods (counterfactual data augmentation, debiased embeddings, iterative nullspace projection) to reduce bias in an occupation classification task. 
+
 ## [Machine Learning Methods for Predicting Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
 <a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
@@ -18,15 +26,6 @@
 
 Language endangerment threatens cultural diversity, with over 40% of the world’s 7,000 languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody, often from marginalized groups. This project aims to predict a language’s endangerment level, from extinct to not endangered, using features such as speaker counts, political status, and urbanization and internet usage rates in the countries where it is spoken. By applying multiple predictive models, we seek to identify the key factors driving language decline and enable earlier, targeted preservation efforts.
 
-<br clear="all"/>
-
-## [CNN for Predicting Diabetic Retinopathy](https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy)
-
-<a href="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy">
-  <img src="https://github.com/jandersen12/CNN-Predicting-Diabetic-Retinopathy/blob/main/images/retinopathy-image.jpeg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-Diabetic retinopathy (DR) is a diabetes-related eye disease that damages the blood vessels in the retina, potentially leading to vision loss or blindness. This project aims to develop a convolutional neural network (CNN) for detecting diabetic retinopathy (DR) from retina images captured through fundus photography under diverse imaging conditions. To enhance the model's generalization and minimize overfitting, the approach incorporates image transformation and data augmentation techniques, enabling the system to perform robustly across a wide range of visual inputs.
 
 <br clear="all"/>
 
