@@ -4,7 +4,7 @@
 
 📝 Master of Information and Data Science candidate at UC Berkeley
 
-🌏 I love the opportunity to improve processes, continuously learn, and engage with complex problems.
+🌏 Looking for opportunities to improve processes, continuously learn, and engage with complex problems.
 
 ## Highlighted Projects
 
