@@ -2,13 +2,17 @@
 
 👋🏻 My name is Jordan
 
-📝 Master of Information and Data Science candidate at UC Berkeley
+🎓 Master of Information and Data Science @ UC Berkeley
 
-🌏 Looking for opportunities to improve processes, continuously learn, and engage with complex problems.
+🧩 I dig deep to find the connections between people, products and problems
+
+🔧 Proven professional experience working with teams to understand root problems and redesign improved workflows
+
+🌱 Looking for PM roles where I can observe, experiment and make things measurably better
 
 ## Highlighted Projects
 
-## [Mitigating Gender Bias in Modern LLMs](https://github.com/jandersen12/mitigating-gender-bias-in-LLMs)
+## [Mitigating Bias in Modern LLMs for Resume Screening Workflows](https://github.com/jandersen12/mitigating-gender-bias-in-LLMs)
 
 <a href="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs.git">
   <img src="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs/blob/main/images/cover_image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
@@ -16,7 +20,7 @@
 
 Modern large language models are trained on web-scraped data that often reflects various forms of bias. This bias can be exacerbated when models rely on these biases to make predictions or classifications, resulting in negative effects towards the group of people whom it reflects the bias against. In this project, we explored the extent of gender bias in pre-trained modern LLMs like ModernBert, and apply 3 debiasing methods (counterfactual data augmentation, debiased embeddings, iterative nullspace projection) to reduce bias in an occupation classification task. 
 
-## [Machine Learning Methods for Predicting Language Endangerment Status](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
+## [Using Machine Learning to Predict Language Endangerment](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
 <a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
   <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech-bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
@@ -27,7 +31,7 @@ Language endangerment threatens cultural diversity, with over 40% of the world�
 
 <br clear="all"/>
 
-## [A Causal Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
+## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
 <a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
   <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
@@ -56,8 +60,6 @@ Utilizing open source data from the New York Metropolitan Museum of Art, our tea
 An exploratory data analysis project that uncovers relationships between gender, employment, and primary school enrollment at a global scale. By using Development Indicators and economic categorizations from the World Bank, my team discovered correlations between a country's female primary school enrollment rates and employment rates. By filtering and reshaping the data using melting in Python, we were able to analyze indicators for our chosen variables accross the years from 2017-2023, handling missing data with consistency and producing high-quality visualizations. 
 
 <br clear="all"/>
-
-## Other interesting projects pinned below
 
 <!-- Archive of Projects
 ## [Partisan Perspectives: Testing Differences in Political Attitudes with R](https://github.com/jandersen12/Political-Party-Attitudes-Education)
