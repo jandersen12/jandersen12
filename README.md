@@ -8,8 +8,6 @@
 
 🔧 Proven experience working with teams to understand root causes and improve workflows
 
-🌱 Looking for PM roles where I can understand user frustrations, experiment with solutions, and make things measurably better
-
 ## Highlighted Projects
 
 ## [Mitigating Bias in Modern LLMs for Resume Screening Workflows](https://github.com/jandersen12/mitigating-gender-bias-in-LLMs)
