@@ -41,7 +41,7 @@ In digital commerce, personalization and product bundling are widely used strate
 
 <br clear="all"/>
 
-## [Met Connect: A Graph Database Approach to Model the New York Met's Collection](https://github.com/jandersen12/Met-Objects-Graph-Model)
+## [Met Connect: Finding and Analyzing Patterns in the New York Met's Collection](https://github.com/jandersen12/Met-Objects-Graph-Model)
 
 <a href="https://github.com/jandersen12/Met-Objects-Graph-Model">
   <img src="https://github.com/jandersen12/Met-Objects-Graph-Model/blob/main/images/museum-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
