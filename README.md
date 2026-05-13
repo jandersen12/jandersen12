@@ -6,7 +6,7 @@
 
 🧩 I dig deep to find the connections between people, products and problems
 
-🔧 Proven professional experience working with teams to understand root problems and redesign improved workflows
+🔧 Proven experience working with teams to understand root problems and improve workflows
 
 🌱 Looking for PM roles where I can observe, experiment and make things measurably better
 
