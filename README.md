@@ -4,11 +4,11 @@
 
 🎓 Master of Information and Data Science @ UC Berkeley
 
-🧩 I dig deep to find the connections between people, products and problems
+🧩 I dig deep to find the connections between people, products, and problems
 
 🔧 Proven experience working with teams to understand root causes and improve workflows
 
-🌱 Looking for PM roles where I can observe, experiment and make things measurably better
+🌱 Looking for PM roles where I can understand user frustrations, experiment with solutions, and make things measurably better
 
 ## Highlighted Projects
 
