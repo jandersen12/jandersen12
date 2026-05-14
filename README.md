@@ -10,13 +10,23 @@
 
 ## Highlighted Projects
 
+## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
+
+<a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
+  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Personalized product recommendations and item bundling are widely used strategies aimed at increasing consumer engagement and spending. This study uses a 3x2 factorial design to test the hypothesis that bundling and personalization strategies increase customer purchase amounts within a simulated e-commerce environment.
+
+<br clear="all"/>
+
 ## [Mitigating Bias in Modern LLMs for Resume Screening Workflows](https://github.com/jandersen12/mitigating-gender-bias-in-LLMs)
 
 <a href="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs.git">
   <img src="https://github.com/jandersen12/mitigating-gender-bias-in-LLMs/blob/main/images/cover_image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
-Modern large language models are trained on web-scraped data that often reflects various forms of bias. This bias can be exacerbated when models rely on these biases to make predictions or classifications, resulting in negative effects towards the group of people whom it reflects the bias against. In this project, we explored the extent of gender bias in pre-trained modern LLMs like ModernBert, and apply 3 debiasing methods (counterfactual data augmentation, debiased embeddings, iterative nullspace projection) to reduce bias in an occupation classification task. 
+Modern large language models are trained on web-scraped data that often reflects various forms of bias. This bias can be exacerbated when models rely on it to make predictions, often resulting in negative effects towards certain groups. In this project, we explored the extent of gender bias in pre-trained modern LLMs like ModernBert, and applied 3 debiasing methods (counterfactual data augmentation, debiased embeddings, iterative nullspace projection) to reduce model bias in an occupation classification task related to resume screening workflows. 
 
 ## [Using Machine Learning to Predict Language Endangerment](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
@@ -24,18 +34,7 @@ Modern large language models are trained on web-scraped data that often reflects
   <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech-bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
-Language endangerment threatens cultural diversity, with over 40% of the world’s 7,000 languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody, often from marginalized groups. This project aims to predict a language’s endangerment level, from extinct to not endangered, using features such as speaker counts, political status, and urbanization and internet usage rates in the countries where it is spoken. By applying multiple predictive models, we seek to identify the key factors driving language decline and enable earlier, targeted preservation efforts.
-
-
-<br clear="all"/>
-
-## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
-
-<a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
-  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-In digital commerce, personalization and product bundling are widely used strategies aimed at increasing consumer engagement and spending. This study investigates whether identity-based personalization enhances the effectiveness of product bundling in driving purchase behavior. By using a 3x2 factorial design, users are assigned to one of six simulated purchase environments. By offering a maximum $300 prize, we attempt to motivate participants to treat the simulation as close to reality as possible. Our hypothesis states that bundling and personalization will individually increase intent to purchase amounts, while the combination of both will also result in higher purchase amounts. 
+Over 40% of the world’s 7,000+ languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody. This project aims to discover socioeconomic features that can be used to predict a language's endangerment classification, with the goal of producing actionable insights into areas where targeted interventions for language preservation will be most valuable.
 
 <br clear="all"/>
 
@@ -45,7 +44,7 @@ In digital commerce, personalization and product bundling are widely used strate
   <img src="https://github.com/jandersen12/Met-Objects-Graph-Model/blob/main/images/museum-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
-Utilizing open source data from the New York Metropolitan Museum of Art, our team converted the museum's object collection data into a graph database structure and used graph algorithms to uncover key insights that inform exhibition ideas, object curation, and user experience enhancements. We modeled the data in Neo4j and used Pagerank, Louvain Modularity, and Closeness Centrality algorithms. Finally, we developed exploratory plots and recommendations based on centrality scores and community detection.
+Utilizing open source data from the New York Metropolitan Museum of Art, our team converted the museum's collection data into a graph database, uncovering key insights into the relationships between objects and galleries that inform exhibition ideas, object curation, and user experience enhancements for visitor-facing products.
 
 <br clear="all"/>
 
@@ -55,7 +54,7 @@ Utilizing open source data from the New York Metropolitan Museum of Art, our tea
   <img src="https://github.com/jandersen12/World-Bank-Indicators-Analysis/blob/main/images/globe-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
-An exploratory data analysis project that uncovers relationships between gender, employment, and primary school enrollment at a global scale. By using Development Indicators and economic categorizations from the World Bank, my team discovered correlations between a country's female primary school enrollment rates and employment rates. By filtering and reshaping the data using melting in Python, we were able to analyze indicators for our chosen variables accross the years from 2017-2023, handling missing data with consistency and producing high-quality visualizations. 
+An exploratory data analysis project that uncovers relationships between gender, employment, and primary school enrollment at a global scale, producing insights into how early education relates to overall labor market trends.
 
 <br clear="all"/>
 
