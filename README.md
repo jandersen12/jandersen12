@@ -24,7 +24,7 @@
 ## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
 <a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
-  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/Final-Report-Images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 Personalized product recommendations and item bundling are widely used strategies aimed at increasing consumer engagement and spending. This study uses a 3x2 factorial design to test the hypothesis that bundling and personalization strategies increase customer purchase amounts within a simulated e-commerce environment.
