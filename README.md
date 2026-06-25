@@ -18,8 +18,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 ## Highlighted Projects
+
+## [Demand Forecasting for Corporación Favorita Grocery Chain](https://github.com/jandersen12/favorita-demand-forecasting.git)
+
+<a href="https://github.com/jandersen12/favorita-demand-forecasting.git">
+  <img src="https://github.com/jandersen12/favorita-demand-forecasting.git/outputs/figures/stock-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Forecasts demand across 1,800+ store-product series for a Latin American grocery chain, improving accuracy 27% over baseline and quantifying where better forecasts save the most money. Includes a disruption-resilience analysis around the 2016 Ecuador earthquake and an interactive Tableau dashboard.
+
+<br clear="all"/>
 
 ## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
@@ -38,14 +50,6 @@ Personalized product recommendations and item bundling are widely used strategie
 </a>
 
 Modern large language models are trained on web-scraped data that often reflects various forms of bias. This bias can be exacerbated when models rely on it to make predictions, often resulting in negative effects towards certain groups. In this project, we explored the extent of gender bias in pre-trained modern LLMs like ModernBert, and applied 3 debiasing methods (counterfactual data augmentation, debiased embeddings, iterative nullspace projection) to reduce model bias in an occupation classification task related to resume screening workflows. 
-
-## [Using Machine Learning to Predict Language Endangerment](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
-
-<a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
-  <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech-bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
-</a>
-
-Over 40% of the world’s 7,000+ languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody. This project aims to discover socioeconomic features that can be used to predict a language's endangerment classification, with the goal of producing actionable insights into areas where targeted interventions for language preservation will be most valuable.
 
 <br clear="all"/>
 
@@ -70,6 +74,16 @@ An exploratory data analysis project that uncovers relationships between gender,
 <br clear="all"/>
 
 <!-- Archive of Projects
+## [Using Machine Learning to Predict Language Endangerment](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
+
+<a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
+  <img src="https://github.com/jandersen12/Machine-Learning-Endangered-Languages/blob/main/images/speech-bubble.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Over 40% of the world’s 7,000+ languages at risk of disappearing. As these languages vanish, so do the unique histories, identities, and perspectives they embody. This project aims to discover socioeconomic features that can be used to predict a language's endangerment classification, with the goal of producing actionable insights into areas where targeted interventions for language preservation will be most valuable.
+
+<br clear="all"/>
+
 ## [Partisan Perspectives: Testing Differences in Political Attitudes with R](https://github.com/jandersen12/Political-Party-Attitudes-Education)
 
 <a href="https://github.com/jandersen12/Political-Party-Attitudes-Education">
