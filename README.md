@@ -26,7 +26,7 @@
 ## [Demand Forecasting for Corporación Favorita Grocery Chain](https://github.com/jandersen12/favorita-demand-forecasting.git)
 
 <a href="https://github.com/jandersen12/favorita-demand-forecasting.git">
-  <img src="https://github.com/jandersen12/favorita-demand-forecasting.git/outputs/figures/stock-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/favorita-demand-forecasting/blob/main/outputs/figures/stock-image.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 Forecasts demand across 1,800+ store-product series for a Latin American grocery chain, improving accuracy 27% over baseline and quantifying where better forecasts save the most money. Includes a disruption-resilience analysis around the 2016 Ecuador earthquake and an interactive Tableau dashboard.
