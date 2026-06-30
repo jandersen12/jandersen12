@@ -6,7 +6,7 @@
 
 🧩 I dig deep to find the connections between systems, people and patterns to build something that's measurably better
 
-🔧 Proven experience working with teams to understand root causes and improve workflows
+🔧 Proven experience working with teams to understand root causes and improve business processes
 
 ## Tech Stack
 
