@@ -6,7 +6,7 @@
 
 🧩 I dig deep to find the connections between systems, people and patterns to build something that's measurably better
 
-🔧 Proven experience working with teams to understand root causes and improve business processes
+🔧 Proven experience working with teams to understand root causes and improve operational processes
 
 ## Tech Stack
 
@@ -22,6 +22,15 @@
 
 
 ## Highlighted Projects
+
+## [Resilient Supply Chains: A graph-based optimization approach](https://github.com/jandersen12/supply-chain-mapping-hys)
+<a href="https://github.com/jandersen12/supply-chain-mapping-hys.git">
+  <img src="https://github.com/jandersen12/supply-chain-mapping-hys/images/demo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+</a>
+
+Global commodity supply chains have focused on reducing costs, often at the expense of resilience, leading to a lack of flexibility to respond to global shocks. I wanted to learn more about what it takes to build a resilient supply chain, so I built an interactive tool that uses a directed trade-value graph built from UN Comtrade data and simulates disruptions to compare how different optimization strategies reroute around global shocks to a commodity supply chain network.
+
+<br clear="all"/>
 
 ## [Demand Forecasting for Corporación Favorita Grocery Chain](https://github.com/jandersen12/favorita-demand-forecasting.git)
 
@@ -63,6 +72,8 @@ Utilizing open source data from the New York Metropolitan Museum of Art, our tea
 
 <br clear="all"/>
 
+<!-- Archive of Projects
+
 ## [A Global Analysis on Gender, Employment, and School Enrollment](https://github.com/jandersen12/World-Bank-Indicators-Analysis)
 
 <a href="https://github.com/jandersen12/World-Bank-Indicators-Analysis">
@@ -73,7 +84,6 @@ An exploratory data analysis project that uncovers relationships between gender,
 
 <br clear="all"/>
 
-<!-- Archive of Projects
 ## [Using Machine Learning to Predict Language Endangerment](https://github.com/jandersen12/Machine-Learning-Endangered-Languages)
 
 <a href="https://github.com/jandersen12/Machine-Learning-Endangered-Languages.git">
