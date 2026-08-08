@@ -25,7 +25,7 @@
 
 ## [Resilient Supply Chains: A graph-based optimization approach](https://github.com/jandersen12/supply-chain-mapping-hys)
 <a href="https://github.com/jandersen12/supply-chain-mapping-hys.git">
-  <img src="https://github.com/jandersen12/supply-chain-mapping-hys/images/demo.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/jandersen12/supply-chain-mapping-hys/blob/main/images/demo.jpg" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 </a>
 
 Global commodity supply chains have focused on reducing costs, often at the expense of resilience, leading to a lack of flexibility to respond to global shocks. I wanted to learn more about what it takes to build a resilient supply chain, so I built an interactive tool that uses a directed trade-value graph built from UN Comtrade data and simulates disruptions to compare how different optimization strategies reroute around global shocks to a commodity supply chain network.
