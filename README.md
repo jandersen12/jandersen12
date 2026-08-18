@@ -42,7 +42,7 @@ Forecasts demand across 1,800+ store-product series for a Latin American grocery
 
 <br clear="all"/>
 
-## [A/B Experimental Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
+## [Causal Experiment Study on Product Personalization and Bundling](https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git)
 
 <a href="https://github.com/jandersen12/Causal-Experiment-Product-Marketing.git">
   <img src="https://github.com/jandersen12/Causal-Experiment-Product-Marketing/blob/main/images/cover-photo.png" width="200" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
